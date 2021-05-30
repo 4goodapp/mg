@@ -93,6 +93,12 @@ Then build Mg from the unpacked release tarball:
     make
     sudo make install
 
+NOTE:
+You can use Homebrew or MacPorts to install it on macOS:
+- for homebrew:
+    `brew install mg`
+- for MacPorts:
+    `sudo port -v install mg`
 
 ### Without curses, completely stand-alone
 
